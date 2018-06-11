@@ -12,6 +12,8 @@ bower_components/
 .idea/**/tasks.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/workspace.xml
+.idea
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
@@ -55,4 +57,6 @@ crashlytics-build.properties
 fabric.properties
 
 # Editor-based Rest Client
-.idea/httpRequests'.idea' 
+.idea/httpRequests'.idea'
+'.idea' 
+'.idea' 
