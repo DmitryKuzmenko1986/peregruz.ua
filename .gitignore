@@ -13,7 +13,7 @@ bower_components/
 .idea/**/dictionaries
 .idea/**/shelf
 .idea/workspace.xml
-.idea/
+.idea
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
